@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Belleza</string>
+    <string name="home">Home</string>
+    <string name="category">Category</string>
+    <string name="brand_outlet">Outlets</string>
+    <string name="mybag">My Bag</string>
+    <string name="myprofile">Profile</string>
+    <string name="cd_bell">Notifications</string>
+    <string name="cd_cart">Cart</string>
+    <string name="cd_image">Image</string>
+    <string name="place_holder_search">Search</string>
+    <string name="description_1">Treat you self better. Choose and get all your cosmetic needs just in one tap.</string>
+    <string name="cosmetic_1">Lipstick</string>
+    <string name="cosmetic_2">By miss Rose</string>
+    <string name="cosmetic_3">made in USA</string>
+    <string name="cosmetic_4">$65.99-$72.99</string>
+    <string name="cosmetic_5">Shades available*</string>
+    <string name="shades">Shades Available</string>
+    <string name="reviews">Reviews</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="sub_total">Subtotal</string>
+    <string name="delivery_charges">Delivery Charges</string>
+    <string name="estimated_tax">Estimated Tax</string>
+    <string name="total">Total</string>
+    <string name="contact">Questions? +94 11 12345678</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="init_cart_value">$ 0</string>
+</resources>
