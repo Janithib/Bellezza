@@ -55,9 +55,6 @@ public class CartActivity extends AppCompatActivity implements ProductAdapter.Pr
         setContentView(R.layout.activity_cart);
 
         subtotalT = findViewById(R.id.subtotal);
-        deliveryT = findViewById(R.id.deliveryCharge);
-        taxT = findViewById(R.id.tax);
-        totalT = findViewById(R.id.total);
 
         onClickListener = this;
         recyclerView = findViewById(R.id.recyclerView);
@@ -191,12 +188,12 @@ public class CartActivity extends AppCompatActivity implements ProductAdapter.Pr
         }else{
             this.subtotal -= price;
         }
-        this.total = subtotal + tax + delivery;
+       // this.total = subtotal + tax + delivery;
 
         subtotalT.setText(String.format("$ %s", subtotal));
-        deliveryT.setText(String.format("$ %s", delivery));
-        taxT.setText(String.format("$ %s", tax));
-        totalT.setText(String.format("$ %s", total));
+      //  deliveryT.setText(String.format("$ %s", delivery));
+     //   taxT.setText(String.format("$ %s", tax));
+    //    totalT.setText(String.format("$ %s", total));
     }
 
     public void goToPayment(View v){
