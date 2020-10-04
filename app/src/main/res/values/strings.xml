@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Belleza</string>
+    <string name="app_name">Bellezza</string>
     <string name="home">Home</string>
     <string name="category">Category</string>
     <string name="brand_outlet">Outlets</string>
@@ -9,7 +9,7 @@
     <string name="cd_cart">Cart</string>
     <string name="cd_image">Image</string>
     <string name="place_holder_search">Search</string>
-    <string name="description_1">Treat you self better. Choose and get all your cosmetic needs just in one tap.</string>
+    <string name="description_1">Treat your self better. Choose and get all your cosmetic needs just in one tap.</string>
     <string name="cosmetic_1">Lipstick</string>
     <string name="cosmetic_2">By miss Rose</string>
     <string name="cosmetic_3">made in USA</string>
